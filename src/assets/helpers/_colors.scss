@@ -1,0 +1,29 @@
+// Light Mode
+.bgLight{
+    background-color: var(--LightGrayBg);
+}
+
+.bgLightComponent{
+    background-color: var(--White);
+}
+
+.textLightMode{
+    color: var(--DarkBlueLightText);
+}
+
+.textLightInput{
+    color: var(--DarkGray);
+}
+
+// Dark Mode
+.bgDark{
+    background-color: var(--DarkBlueBg);
+}
+
+.bgDarkComponent{
+    background-color: var(--DarkBlueElements);
+}
+
+.textDarkMode{
+    color: var(--White)
+}
